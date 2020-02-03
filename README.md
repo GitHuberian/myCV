@@ -1,4 +1,4 @@
 # myCV
 My Curriculum Vitae
 
-English Version / Spanish Version
+English Version MyCV2020.pdf / Spanish Version ChiapasES.pdf
