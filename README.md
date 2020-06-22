@@ -1,4 +1,5 @@
 # myCV
 My Curriculum Vitae
 
-English Version MyCV2020.pdf / Spanish Version ChiapasES.pdf
+A brief description about my developer career. 
+English Version.
