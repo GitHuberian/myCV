@@ -1,5 +1,5 @@
 # myCV
-My Curriculum Vitae
+My Resume
 
-A brief description about my developer career. 
+A summary of my work history, credentials, and skills.
 English Version.
